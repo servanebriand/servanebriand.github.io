@@ -29,8 +29,8 @@
 	<!-- content -->
 	<section class="content-wrapper">
 	  
-<h1 class="project__title">Book of Bones</h1>
-<img class="project__image project__image--main" src="/static/img/projects/book-of-bones/1.jpg" alt="main image for Book of Bones" />
+<h1 class="project__title">A Book of Bones</h1>
+<img class="project__image project__image--main" src="/static/img/projects/book-of-bones/1.jpg" alt="main image for A Book of Bones" />
 <div class="project-content__wrapper">
 <div class="project__details"> 
 	
@@ -92,7 +92,7 @@
 
 	</section>
 	<footer>
-		<p class="footer__credits">Designed by <a href="https://samuelmignot.com" target="_blank">Samuel Mignot</a></p>
+		<p class="footer__credits">Site designed by <a href="https://samuelmignot.com" target="_blank">Samuel Mignot</a></p>
 	</footer>
 	</div>
       

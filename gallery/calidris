@@ -29,8 +29,8 @@
 	<!-- content -->
 	<section class="content-wrapper">
 	  
-<h1 class="project__title">Calidris</h1>
-<img class="project__image project__image--main" src="/static/img/projects/calidris/1.jpg" alt="main image for Calidris" />
+<h1 class="project__title">Calidris Minutilla</h1>
+<img class="project__image project__image--main" src="/static/img/projects/calidris/1.jpg" alt="main image for Calidris Minutilla" />
 <div class="project-content__wrapper">
 <div class="project__details"> 
 	
@@ -74,7 +74,7 @@
 
 	</section>
 	<footer>
-		<p class="footer__credits">Designed by <a href="https://samuelmignot.com" target="_blank">Samuel Mignot</a></p>
+		<p class="footer__credits">Site designed by <a href="https://samuelmignot.com" target="_blank">Samuel Mignot</a></p>
 	</footer>
 	</div>
       
