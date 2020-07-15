@@ -70,8 +70,8 @@
 }
 
 :root {
-  --ff-base: "IBMPlexMono", serif;
-  --ff-second: "IBMPlexSans", sans-serif;
+  --ff-base: IBMPlexMono, serif;
+  --ff-second: IBMPlexSans, sans-serif;
   --fw-regular: 400;
   --fw-light: 300;
   --bg-clr: #f8fafc;
