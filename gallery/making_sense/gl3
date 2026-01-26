@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title> servane briand </title>
+  <link rel="stylesheet" href="/static/css/main.css">
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content=" Servane Briand - Making Sense ">
+</head>
+<body>
+    <div id="top" class="container">
+		<header>
+		<!-- navbar -->
+			<div class="logo">
+				<a class="logo__link" href="/"><img src="/static/img/nameheader.svg"/></a>
+			</div>
+			<nav class="nav"> 
+				<ul class="nav__links">
+					</li>
+					<li class="links__item"><a class="links__link " href="/gallery">works</a></li>
+					<li class="links__item"><a class="links__link "href="/exhibits">exhibits</a></li>
+					<li class="links__item"><a class="links__link " href="/profile"> profile </a></li>
+					<li class="links__item"><a class="links__link " href="/contact"> contact </a></li>
+				</ul>
+			</nav>
+	</header>
+
+	<!-- content -->
+	<section class="content-wrapper">
+	  
+<div class="audio-player__container">
+    <div class="audio-info">
+        <p> Listen to <i>YÁ&#39;AASH</i> by
+        <a href="https://sabinehuynh.com/" class="audio-author" target="_blank" rel="noopener noreferrer">Sabine Huynh</a>
+        from the Making Sense series.
+        </p>
+    </div>
+
+    <div class="audio-player__wrapper">
+        <div class="audio-player__border">
+            <audio controls class="audio-player">
+                <source src="/static/audio/gl3.m4a" type="audio/mp4">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+    </div>
+</div>
+
+<div class="return-arrow__wrapper">
+    <a class="return-arrow__link" href="/gallery/making_sense/"><span class="return-arrow">&larr;</span> Back to Making Sense</a>
+</div>
+
+	</section>
+	<footer>
+		<p class="footer__credits">Site designed by <a class="credit" href="https://samuelmignot.com" target="_blank">Samuel Mignot</a></p>
+	</footer>
+	</div>
+      
+ </body>
+</html>
